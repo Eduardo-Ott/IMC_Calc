@@ -4,6 +4,9 @@ body {
 
      font-family: Arial, Helvetica, sans-serif;
 }
+.main {
+    padding-bottom: 50px;
+}
 
 .headerContainer {
     max-width: 900px;
@@ -125,4 +128,12 @@ body {
         margin-top: 0;
         border-radius: 10px;
     }
+}
+
+@media (max-width: 430px) {
+   
+    .container .rightside .grid{
+        grid-template-columns: 1fr;
+    }
+
 }
