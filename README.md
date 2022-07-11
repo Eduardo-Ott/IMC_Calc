@@ -1,6 +1,8 @@
 # CALCULADORA DE IMC
 
-Projeto realizado em ReactJS + Typescript fazendo uma calculadora de IMC.
+Projeto em ReactJS + Typescript fazendo uma calculadora de IMC.
+
+Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br)
 
 ### Instalação:
 - `yarn install`
